@@ -17,6 +17,7 @@ public:
 	BOOL UpdateWindow();
 public:
 	HWND m_hWnd;
+	/*change on branch*/
 };
 
 BOOL CWnd::CreateEx(DWORD dwExStyle,      // extended window style
