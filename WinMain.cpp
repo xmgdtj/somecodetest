@@ -87,4 +87,5 @@ LRESULT CALLBACK WinSunProc(
 	return 0;
 	
 	/** change something**/
+	/** change something on laptop**/
 }
