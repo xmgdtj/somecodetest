@@ -88,4 +88,7 @@ LRESULT CALLBACK WinSunProc(
 	
 	/** change something**/
 	/** change something again in desktop branch**/
+	/** change something on laptop**/
+	/** change something on laptop2**/
+	/** you can only edit this file as your wish. save it!!**/
 }
