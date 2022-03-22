@@ -88,4 +88,5 @@ LRESULT CALLBACK WinSunProc(
 	
 	/** change something**/
 	/** change something on laptop**/
+	/** change something on laptop2**/
 }
